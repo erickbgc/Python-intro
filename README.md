@@ -1,3 +1,3 @@
-# Python-intro
+# Python tutorial
 
-#Introduccion a python
+# Python introduction
